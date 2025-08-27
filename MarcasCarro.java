@@ -1,0 +1,16 @@
+package AtividadesAula5;
+
+public enum MarcasCarro {
+	
+	FERRARI,
+	MCLAREN,
+	MERCEDES,
+	BUGATTI,
+	ROLLSROYCE,
+	ASTONMARTIN,
+	BMW,
+	PORSCHE,
+	LAMBORGHINI,
+	MASERATI
+
+}
