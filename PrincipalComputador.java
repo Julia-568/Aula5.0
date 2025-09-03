@@ -1,6 +1,6 @@
 package AtividadesAula5;
 
-public class ObjetoComputador {
+public class PrincipalComputador {
 	
 	public static void main(String[] args) {
 		
